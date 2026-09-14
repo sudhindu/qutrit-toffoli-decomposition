@@ -1,0 +1,9 @@
+X01 gate population-transfer table (rows=input, cols=output |0>,|1>,|2>)
+[[0.00177 0.99823 0.     ]
+ [0.99824 0.00176 0.     ]
+ [0.      0.      1.     ]]
+
+X12 gate population-transfer table (rows=input, cols=output |0>,|1>,|2>)
+[[1.      0.      0.     ]
+ [0.      0.00009 0.99991]
+ [0.      0.9999  0.0001 ]]
